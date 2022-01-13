@@ -19,7 +19,7 @@ Example:
 ## Object oriented principles:
 * SOLID: 
 
-## Some common design patterns 
+##### [Some common design patterns](https://github.com/yogitaupadhyay/LowLevelDesign/blob/master/common_design_patterns.md#common-design-patterns)
 
 ## Approach:
 1. Requirement clarification
