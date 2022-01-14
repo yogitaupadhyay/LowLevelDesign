@@ -37,7 +37,7 @@ Example:
 5. Mediator
 6. Memento
 7. Null Object 
-8. Observer
+8. [Observer](https://en.wikipedia.org/wiki/Observer_pattern)
 9. State
 9. Strategy 
 10. Template method(abstract classes)

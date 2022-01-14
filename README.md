@@ -34,3 +34,4 @@ Example:
 links:
 * Blogs: https://shashibhushankr.medium.com/cracking-the-low-level-design-lld-interview-4e02b3b555e2
 * Design questions: https://github.com/prasadgujar/low-level-design-primer/blob/master/questions.md
+* https://www.geeksforgeeks.org/software-design-patterns/
