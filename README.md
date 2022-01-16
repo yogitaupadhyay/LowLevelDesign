@@ -35,3 +35,10 @@ links:
 * Blogs: https://shashibhushankr.medium.com/cracking-the-low-level-design-lld-interview-4e02b3b555e2
 * Design questions: https://github.com/prasadgujar/low-level-design-primer/blob/master/questions.md
 * https://www.geeksforgeeks.org/software-design-patterns/
+* Open source: https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/
+* Slack- https://app.slack.com/client/T3VN9S0H2/D02UW677ZS4
+* project actively wants help (open source)- https://up-for-grabs.net/#/
+* https://goodfirstissues.com/
+* https://goodfirstissue.dev/
+* https://www.codetriage.com/
+* https://github.com/larymak/Python-project-Scripts
