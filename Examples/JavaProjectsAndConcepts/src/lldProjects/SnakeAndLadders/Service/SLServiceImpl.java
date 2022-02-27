@@ -1,8 +1,8 @@
-package yogita.Service;
+package lldProjects.SnakeAndLadders.Service;
 
-import yogita.Models.Board;
-import yogita.Models.Dice;
-import yogita.Models.Players;
+import lldProjects.SnakeAndLadders.Models.Board;
+import lldProjects.SnakeAndLadders.Models.Dice;
+import lldProjects.SnakeAndLadders.Models.Players;
 
 public class SLServiceImpl implements SLService {
 

@@ -1,4 +1,4 @@
-package yogita.Models;
+package lldProjects.SnakeAndLadders.Models;
 
 public class Demo {
 

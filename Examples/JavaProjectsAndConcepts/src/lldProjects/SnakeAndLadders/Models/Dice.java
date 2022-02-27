@@ -1,4 +1,4 @@
-package yogita.Models;
+package lldProjects.SnakeAndLadders.Models;
 
 public class Dice {
 	public int throwDice() {

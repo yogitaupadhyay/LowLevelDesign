@@ -1,4 +1,4 @@
-package yogita.Models;
+package lldProjects.SnakeAndLadders.Models;
 
 import java.util.HashMap;
 import java.util.Map;
