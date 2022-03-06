@@ -1,6 +1,6 @@
-package AdvanceJavaConcepts.Concurrency.Threads.overrideRunnable.drivers;
+package AdvanceJavaConcepts.Concurrency.Threads.basics.drivers;
 
-import AdvanceJavaConcepts.Concurrency.Threads.overrideRunnable.threadClasses.MyThreadImplementingYield;
+import AdvanceJavaConcepts.Concurrency.Threads.basics.threadClasses.MyThreadImplementingYield;
 
 /*
  * yield():   public static native void yield();

@@ -1,6 +1,6 @@
-package AdvanceJavaConcepts.Concurrency.Threads.overrideRunnable.drivers;
+package AdvanceJavaConcepts.Concurrency.Threads.basics.drivers;
 
-import AdvanceJavaConcepts.Concurrency.Threads.overrideRunnable.threadClasses.MyThreadUsingRunnable;
+import AdvanceJavaConcepts.Concurrency.Threads.basics.threadClasses.MyThreadUsingRunnable;
 
 public class Priority {
 

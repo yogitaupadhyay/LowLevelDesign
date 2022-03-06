@@ -1,4 +1,4 @@
-package AdvanceJavaConcepts.Concurrency.Threads.overrideRunnable.threadClasses;
+package AdvanceJavaConcepts.Concurrency.Threads.basics.threadClasses;
 
 
 /*  

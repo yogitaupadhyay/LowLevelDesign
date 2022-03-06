@@ -1,4 +1,4 @@
-package AdvanceJavaConcepts.Concurrency.Threads.overrideRunnable.threadClasses;
+package AdvanceJavaConcepts.Concurrency.Threads.basics.threadClasses;
 
 /*  
  * Please Note creating thread using Runnable is recommended as

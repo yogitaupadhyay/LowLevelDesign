@@ -1,6 +1,6 @@
-package AdvanceJavaConcepts.Concurrency.Threads.overrideRunnable.drivers;
+package AdvanceJavaConcepts.Concurrency.Threads.basics.drivers;
 
-import AdvanceJavaConcepts.Concurrency.Threads.overrideRunnable.threadClasses.MyThread;
+import AdvanceJavaConcepts.Concurrency.Threads.basics.threadClasses.MyThread;
 
 /*
  * join():   public final void join() throws InterruptedException 
